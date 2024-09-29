@@ -1,7 +1,7 @@
 
 # Automated Call Monitoring Script
 
-- [README_FA.md](نسخه فارسی داکیومنت نیز موجود است)
+- [نسخه فارسی داکیومنت نیز موجود است](README_FA.md)
 
 This project is a Python script for monitoring phone calls and detecting user activities. It utilizes libraries such as `pyautogui`, `pygame`, `PaddleOCR`, and `pandas`. With this script, you can automatically make phone calls and log user click information.
 
