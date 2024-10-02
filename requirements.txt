@@ -1,0 +1,10 @@
+pyautogui
+pygame
+pyaudio
+pandas
+paddlepaddle
+paddleocr
+openpyxl
+setuptools
+numpy
+scipy
