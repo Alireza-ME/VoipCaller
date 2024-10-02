@@ -37,7 +37,7 @@ Before running the script, please install the following:
 1. **Download the code**: Clone this project from GitHub:
    ```bash
    git clone https://github.com/Alireza-ME/VoipCaller.git
-   cd your_repository
+   cd VoipCaller
    ```
 
 2. **Run**: Execute the script using Python:
