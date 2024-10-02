@@ -96,4 +96,4 @@
 
 اگر سوالی دارید یا نیاز به کمک بیشتری دارید، می‌توانید با من تماس بگیرید:
 - ایمیل: your_email@example.com
-- گیت‌هاب: [A_Lireza_ME](https://t.me/A_Lireza_ME)
+- تلگرام: [A_Lireza_ME](https://t.me/A_Lireza_ME)
