@@ -36,13 +36,13 @@ Before running the script, please install the following:
 
 1. **Download the code**: Clone this project from GitHub:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/Alireza-ME/VoipCaller.git
    cd your_repository
    ```
 
 2. **Run**: Execute the script using Python:
    ```bash
-   python your_script.py
+   python main.py
    ```
 
 ## Usage
@@ -59,7 +59,7 @@ Before running the script, please install the following:
 ## Required Files
 
 - **`phones.xlsx`**: A file that contains phone numbers.
-- **`voices/counsel-2.wav`**: An audio file played during the call.
+- **`voices/counsel.wav`**: An audio file played during the call.
 
 ## Key Functions
 
@@ -96,5 +96,5 @@ This project is licensed under the [MIT](LICENSE) license. For more details abou
 ## Contact
 
 If you have any questions or need further assistance, you can contact me:
-- Email: your_email@example.com
-- GitHub: [your_username](https://github.com/your_username)
+- Email: alighafurgh82@gmail.com
+- telegram: [A_Lireza_ME](https://t.me/A_Lireza_ME)
