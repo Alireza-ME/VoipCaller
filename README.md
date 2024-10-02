@@ -81,6 +81,7 @@ Before running the script, please install the following:
 
 ## Notes
 
+- I suggest using the MicroSip program because it supports DTMF.
 - Make sure you have the necessary permissions to access sound and perform automated clicks.
 - Using this script in commercial or public environments may conflict with local laws. Use it cautiously.
 - Adjust the timings in the script (such as the wait time for sound playback) according to your needs.
