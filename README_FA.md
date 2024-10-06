@@ -95,5 +95,5 @@
 ## تماس
 
 اگر سوالی دارید یا نیاز به کمک بیشتری دارید، می‌توانید با من تماس بگیرید:
-- ایمیل: your_email@example.com
+- ایمیل: alighafurgh82@example.com
 - تلگرام: [A_Lireza_ME](https://t.me/A_Lireza_ME)
